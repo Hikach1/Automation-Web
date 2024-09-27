@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select Kategori Produk</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>88bea59a-6881-48c7-935f-3251202c7dbf</testCaseGuid>
+</TestCaseEntity>

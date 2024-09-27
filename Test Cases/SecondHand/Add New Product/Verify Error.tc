@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Error</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0426e935-49f7-4fa3-a0b2-13e7991174b2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2684856e-d3ff-43f3-8d42-bded888b377c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2684856e-d3ff-43f3-8d42-bded888b377c</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

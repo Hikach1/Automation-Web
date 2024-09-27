@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Content Profile Page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c37ea7c2-19bc-4564-8c68-e0baa5f6cd2b</testCaseGuid>
+</TestCaseEntity>

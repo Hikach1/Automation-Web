@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.ADD.002 - Clicking the Add Button with alphabet in the price field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>835a0be3-c120-4131-8fb1-02a7f57d85fd</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Content Homepage Before Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>849d81b9-9249-44bb-8ff8-03f1276e6ca3</testCaseGuid>
+</TestCaseEntity>

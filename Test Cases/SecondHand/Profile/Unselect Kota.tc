@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Unselect Kota</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fcf54d2f-d16d-4cdd-bd3d-f9ec45cf4895</testCaseGuid>
+</TestCaseEntity>

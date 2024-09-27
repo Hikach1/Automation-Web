@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.ADD.004 - Clicking the Add button without Logging In</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>449a4971-0e45-4f68-8d53-36097e866d0f</testCaseGuid>
+</TestCaseEntity>

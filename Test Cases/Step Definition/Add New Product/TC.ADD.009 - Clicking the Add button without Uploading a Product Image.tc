@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.ADD.009 - Clicking the Add button without Uploading a Product Image</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e3a1888d-fb7f-4fce-9f27-2ee49d1a653a</testCaseGuid>
+</TestCaseEntity>
