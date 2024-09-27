@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.PRF.006 - As a user, I cant edit account profile when the No Handphone field empty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>74eecb34-334e-40a3-ae9c-f7a16f572f8b</testCaseGuid>
+</TestCaseEntity>

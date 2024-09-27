@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.ADD.001 - Clicking the Add Button with Complete and Valid Data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c6890fe1-35e7-49b9-9617-55ebac7abc98</testCaseGuid>
+</TestCaseEntity>

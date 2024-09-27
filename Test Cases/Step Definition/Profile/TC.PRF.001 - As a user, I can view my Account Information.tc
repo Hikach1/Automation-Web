@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.PRF.001 - As a user, I can view my Account Information</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fd1aa277-cc77-47d7-9e06-0ee84f337cc0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>title3rdProductBuy_text</name>
+   <tag></tag>
+   <elementGuidId>f6415bfa-7bf9-4ab6-96bc-62e5b7b3a697</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'card-title' and (text() = 'Sapi_1' or . = 'Sapi_1')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-title</value>
+      <webElementGuid>cdfac863-ef4a-41ed-88ba-1060beaa2bef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sapi_1</value>
+      <webElementGuid>055b1d6f-460b-4370-a155-147e0e7e6bad</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
